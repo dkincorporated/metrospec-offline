@@ -28,4 +28,4 @@ BUG FIXES
 
 *Fixed Custom Destination not updating
 
-Currently: Beta
+# Software state: Beta
